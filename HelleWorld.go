@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Wd hiiiii")
+	fmt.Println("Wd hiii")
 	os.Exit(1)
 }
